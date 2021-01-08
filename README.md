@@ -29,3 +29,6 @@ to set up your own text editor,
 8. ```cd prediksi```
 9. ```python manage.py runserver```
 
+![Image of demo]
+(https://github.com/Priyansh25/Prediksi/images/1.png)
+
