@@ -30,5 +30,5 @@ to set up your own text editor,
 9. ```python manage.py runserver```
 
 ![Image of demo]
-(https://github.com/Priyansh25/Prediksi/Images/1.png)
+(https://github.com/Priyansh25/Prediksi/blob/main/Images/1.png)
 
